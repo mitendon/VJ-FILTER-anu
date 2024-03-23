@@ -25,7 +25,7 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://graph.org/file/4f36cf11a8120dd8b1752.png https://graph.org/file/296e3c16a0b57c9137892.jpg https://graph.org/file/31759ac96b1192ce7d344.jpg https://graph.org/file/31759ac96b1192ce7d344.jpg https://graph.org/file/12c8d4155b434715bbee6.jpg https://graph.org/file/31759ac96b1192ce7d344.jpg https://graph.org/file/12c8d4155b434715bbee6.jpg https://graph.org/file/14a64997ca0f0b0c7f034.jpg https://graph.org/file/1df435303662cff49887b.jpg https://graph.org/file/a77c797bf26b2bce78429.jpg https://graph.org/file/9065ab66dfd1f39654192.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/4f36cf11a8120dd8b1752.png")
-MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/d_movie_office/70")
+MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/Miten_groupbot")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/4f36cf11a8120dd8b1752.png")
 
 # Admins, Channels & Users
