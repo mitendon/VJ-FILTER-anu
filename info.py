@@ -1,4 +1,4 @@
-## this bot is Doffice_Robot
+## this bot is miten_bot
 
 import re
 from os import environ,getenv
