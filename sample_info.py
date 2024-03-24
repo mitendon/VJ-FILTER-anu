@@ -12,7 +12,7 @@ USE_CAPTION_FILTER = False
 
 # Admins, Channels & Users
 ADMINS = [ 'admin123', 6182820161]
-CHANNELS = [-1001998815924, -1001998815924, 'channelusername']
+CHANNELS = [-1001998815924, 'channelusername']
 AUTH_USERS = []
 AUTH_CHANNEL = None
 
