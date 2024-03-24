@@ -206,7 +206,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """Hey {}👋
     
-    {file_name}
+    {@miten_groupbotfile_name}
     
     🔘<i> size - {file_size}</i>
     
@@ -679,7 +679,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='href=https://t.me/miten_group'>D office  🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='href=https://t.me/miten_group'>miten group  🇮🇳</a>
 """
 
 
